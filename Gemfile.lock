@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rack (1.6.0)
+    rigle (0.1.0)
+      rack
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rigle (~> 0.1)
